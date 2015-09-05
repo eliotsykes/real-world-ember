@@ -34,3 +34,7 @@
 	path = apps/emberobserver.client
 	url = git@github.com:emberobserver/client.git
 	branch = master
+[submodule "apps/facturas-client"]
+	path = apps/facturas-client
+	url = git@github.com:abuiles/facturas-client.git
+	branch = master
