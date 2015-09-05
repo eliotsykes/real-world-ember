@@ -1,0 +1,4 @@
+[submodule "apps/borrowers"]
+	path = apps/borrowers
+	url = git@github.com:abuiles/borrowers.git
+	branch = master
