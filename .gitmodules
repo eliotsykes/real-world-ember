@@ -22,3 +22,7 @@
 	path = apps/ember-jobs
 	url = git@github.com:stefanpenner/ember-jobs.git
 	branch = master
+[submodule "apps/ember-twiddle"]
+	path = apps/ember-twiddle
+	url = git@github.com:ember-cli/ember-twiddle.git
+	branch = master
