@@ -38,3 +38,7 @@
 	path = apps/facturas-client
 	url = git@github.com:abuiles/facturas-client.git
 	branch = master
+[submodule "apps/team-time-zone"]
+	path = apps/team-time-zone
+	url = git@github.com:alisdair/team-time-zone.git
+	branch = master
