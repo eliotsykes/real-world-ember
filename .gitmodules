@@ -18,3 +18,7 @@
 	path = apps/ember-cli-todos
 	url = git@github.com:ember-cli/ember-cli-todos.git
 	branch = master
+[submodule "apps/ember-jobs"]
+	path = apps/ember-jobs
+	url = git@github.com:stefanpenner/ember-jobs.git
+	branch = master
