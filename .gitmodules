@@ -14,3 +14,7 @@
 	path = apps/ember-cli-simple-auth-devise
 	url = git@github.com:givanse/ember-cli-simple-auth-devise.git
 	branch = master
+[submodule "apps/ember-cli-todos"]
+	path = apps/ember-cli-todos
+	url = git@github.com:ember-cli/ember-cli-todos.git
+	branch = master
