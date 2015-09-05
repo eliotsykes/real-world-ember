@@ -6,3 +6,7 @@
 	path = apps/cast
 	url = git@github.com:emberjax/cast.git
 	branch = master
+[submodule "apps/ember-cli-blog"]
+	path = apps/ember-cli-blog
+	url = git@github.com:broerse/ember-cli-blog.git
+	branch = master
