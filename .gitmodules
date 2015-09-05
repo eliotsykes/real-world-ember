@@ -10,3 +10,7 @@
 	path = apps/ember-cli-blog
 	url = git@github.com:broerse/ember-cli-blog.git
 	branch = master
+[submodule "apps/ember-cli-simple-auth-devise"]
+	path = apps/ember-cli-simple-auth-devise
+	url = git@github.com:givanse/ember-cli-simple-auth-devise.git
+	branch = master
