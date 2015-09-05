@@ -2,3 +2,7 @@
 	path = apps/borrowers
 	url = git@github.com:abuiles/borrowers.git
 	branch = master
+[submodule "apps/cast"]
+	path = apps/cast
+	url = git@github.com:emberjax/cast.git
+	branch = master
