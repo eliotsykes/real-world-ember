@@ -42,3 +42,7 @@
 	path = apps/team-time-zone
 	url = git@github.com:alisdair/team-time-zone.git
 	branch = master
+[submodule "apps/huboard-web"]
+	path = apps/huboard-web
+	url = git@github.com:huboard/huboard-web.git
+	branch = master
