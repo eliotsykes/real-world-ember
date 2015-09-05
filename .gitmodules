@@ -30,3 +30,7 @@
 	path = apps/ember-weekend
 	url = git@github.com:ember-weekend/ember-weekend.git
 	branch = master
+[submodule "apps/emberobserver.client"]
+	path = apps/emberobserver.client
+	url = git@github.com:emberobserver/client.git
+	branch = master
