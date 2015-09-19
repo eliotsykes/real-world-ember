@@ -46,3 +46,7 @@
 	path = apps/huboard-web
 	url = git@github.com:huboard/huboard-web.git
 	branch = master
+[submodule "apps/hummingbird"]
+	path = apps/hummingbird
+	url = git@github.com:hummingbird-me/hummingbird.git
+	branch = master
