@@ -58,3 +58,7 @@
 	path = apps/wordset-ui
 	url = git@github.com:wordset/wordset-ui.git
 	branch = master
+[submodule "apps/ember-cli-addon-search"]
+	path = apps/ember-cli-addon-search
+	url = git@github.com:gcollazo/ember-cli-addon-search.git
+	branch = master
