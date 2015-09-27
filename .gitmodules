@@ -50,3 +50,7 @@
 	path = apps/hummingbird
 	url = git@github.com:hummingbird-me/hummingbird.git
 	branch = master
+[submodule "apps/ghost"]
+	path = apps/ghost
+	url = git@github.com:TryGhost/Ghost.git
+	branch = master
