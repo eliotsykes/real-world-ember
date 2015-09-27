@@ -54,3 +54,7 @@
 	path = apps/ghost
 	url = git@github.com:TryGhost/Ghost.git
 	branch = master
+[submodule "apps/wordset-ui"]
+	path = apps/wordset-ui
+	url = git@github.com:wordset/wordset-ui.git
+	branch = master
