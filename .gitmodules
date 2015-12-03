@@ -62,3 +62,7 @@
 	path = apps/ember-cli-addon-search
 	url = git@github.com:gcollazo/ember-cli-addon-search.git
 	branch = master
+[submodule "apps/hospitalrun-frontend"]
+	path = apps/hospitalrun-frontend
+	url = git@github.com:HospitalRun/hospitalrun-frontend.git
+	branch = master
